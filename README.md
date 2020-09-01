@@ -8,3 +8,4 @@
 - 📫 How to reach me: [![@jbtcdDE on Twitter](http://img.shields.io/badge/twitter-%40jbtcdDE-blue.svg?style=flat)](https://twitter.com/jbtcdDE) or [mail@jbtcd.me](mailto:mail@jbtcd.me)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I didn't know exactly what I was going to learn until I started my training as a software developer
+- How to found me: [![@jbtcd on PayPal](https://www.paypalobjects.com/webstatic/de_DE/i/de-pp-logo-100px.png)](https://paypal.me/jbtcd)
