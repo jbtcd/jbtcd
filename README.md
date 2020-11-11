@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I didn't know exactly what I was going to learn until I started my training as a software developer
 
-# Jonah's tech stack
+## Jonah's tech stack
 - [Notebook: Dell XPS 15](https://www.dell.com/en-us/shop/cty/pdp/spd/xps-15-7590-laptop/xn7590edlds)
 - [OS: Ubuntu 20.04.1 LTS](https://releases.ubuntu.com/20.04/)
 - [Keyboard: Keychron K6 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard?variant=31441091592281)
