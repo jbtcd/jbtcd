@@ -1,6 +1,6 @@
 # Hi there, I'm Jonah 👋
 
-- 🔭 I’m currently working on my health, a [PHP SDK for Fitbit](https://github.com/jbtcd/fitbit-sdk-php) data and I want to add ***pdo_firebird*** support to the [Doctrine dbal](https://github.com/doctrine/dbal) project
+- 🔭 I’m currently working on my health, a [PHP SDK for Fitbit](https://github.com/jbtcd/fitbit-sdk-php) data
 - 🌱 I’m currently learning [spryker](https://github.com/spryker)
 - 👯 I’m looking to collaborate on some [symfony](https://github.com/symfony) projects
 - 🤔 I’m looking for help with [this](https://github.com/jbtcd/jbtcd/blob/master/README.md) file
