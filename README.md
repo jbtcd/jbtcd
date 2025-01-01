@@ -1,5 +1,7 @@
 # Hi there, I'm Jonah 👋
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraineFlat.svg)](https://stand-with-ukraine.pp.ua)
+
 - 👯 I’m a [symfony](https://github.com/symfony) developer, all of my projects are compatible the current versions
 - 💬 Ask me about anything you want to know, maybe I can help 🙃
 - 📫 How to reach me: Here, at [Threads](https://www.threads.net/@jbtcd) or [mail@jbtcd.me](mailto:mail@jbtcd.me)
