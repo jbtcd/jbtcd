@@ -12,3 +12,5 @@
 - [Smartphone: Google Pixel 8](https://store.google.com/product/pixel_8)
 - [Watch: Google Pixel Watch 2](https://store.google.com/product/pixel_watch_2)
 - [Keyboard: Keychron K6](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard)
+
+Soon switching to MacOS 👀 
